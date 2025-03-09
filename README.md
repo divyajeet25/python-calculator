@@ -8,9 +8,6 @@ A simple **GUI-based calculator** built using **Python** and **Tkinter**. This c
 - Responsive buttons
 - Error handling for invalid inputs
 
-## 📸 Screenshot
-![Calculator Screenshot](Screenshot 2025-03-08 181103.jpg)
-
 ## 🛠️ Installation
 1. Clone this repository:
    ```sh
